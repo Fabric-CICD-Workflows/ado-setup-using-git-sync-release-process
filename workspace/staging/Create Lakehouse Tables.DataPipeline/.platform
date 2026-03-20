@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "Create Lakehouse Tables",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "058953e9-6165-8fdf-443b-f06e308ea367"
+  }
+}
